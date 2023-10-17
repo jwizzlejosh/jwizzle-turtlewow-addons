@@ -36,6 +36,9 @@ By default, you may notice that in Vanilla WoW, Auto-loot is enabled by holding 
   - It basically reverses its functionality, so you loot automatically without holding [shift] (or your designated key) and loot normally while holding it.
 
 ### How to Patch your Client
+
+[WoW Patcher](/Images/wowpatcher.png)
+
 1. Make sure the Patcher is in your WoW folder. (like the picture above)
 2. Make sure the game isn't running while using the Patcher. (the Patcher will throw an error and it won't work)
 3. Make sure your WoW application is called WoW.exe.
