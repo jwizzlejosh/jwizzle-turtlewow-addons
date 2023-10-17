@@ -5,13 +5,20 @@ This is Jwizzle's comprehensive Addon repository for TurtleWoW Vanilla Plus. I c
 
 Here, you may also find the [sources](https://github.com/NoM0Re/Addons/blob/main/README.md#most-useful-wow-addons-for-patch-335a-wotlk) so you can download them directly if you prefer. Best of luck Turtles and happy questing.
 
+## Table of Contents
+- [Installing TurtleWoW Addons](https://github.com/jwizzlejosh/jwizzle-turtlewow-addons/edit/main/README.md#installing-turtlewow-addons)
+- [Patching a Vanilla Client](https://github.com/jwizzlejosh/jwizzle-turtlewow-addons/edit/main/README.md#installing-turtlewow-addons)
+  - [How to Patch your Client](https://github.com/jwizzlejosh/jwizzle-turtlewow-addons/edit/main/README.md#how-to-patch-your-client)
+- [Addons List](https://github.com/jwizzlejosh/jwizzle-turtlewow-addons/edit/main/README.md#addons-list)
 
-## Installing WoW Addons
+## Installing TurtleWoW Addons
 1. Download an Addon
 2. Unzip downloaded Addon (if required)
 3. Find in your World of Warcraft folder, the /Interface/Addons folder
 4. Drag and drop folder(s) into the addon folder (folder name should match .toc file inside; remove "-master" if needed).
 5. Restart the Game
+
+[Back to Top](https://github.com/jwizzlejosh/jwizzle-turtlewow-addons/edit/main/README.md#jwizzles-addons-list-for-turtlewow-1170)
 
 ## Patching a Vanilla Client
 By default, you may notice that in Vanilla WoW, Auto-loot is enabled by holding shift when right-clicking a mob. To reverse this and auto-loot by default rather than by shift-clicking, you will need to patch your client which you can do manually by changing the bytes of the `WoW.exe` file, or by using a simple pre-made patcher. I recommend using the tool described in this [TurtleWoW Forum Post](https://forum.turtle-wow.org/viewtopic.php?f=29&t=2331&sid=7e91376af1c056172eb82b92e1ca18cb) By patching your client using this tool, you may also apply the following enhancements:
@@ -35,6 +42,8 @@ By default, you may notice that in Vanilla WoW, Auto-loot is enabled by holding 
 - **AutoLoot w/o shift**
   - It basically reverses its functionality, so you loot automatically without holding [shift] (or your designated key) and loot normally while holding it.
 
+[Back to Top](https://github.com/jwizzlejosh/jwizzle-turtlewow-addons/edit/main/README.md#jwizzles-addons-list-for-turtlewow-1170)
+
 ### How to Patch your Client
 
 ![WoW Patcher](/Images/wowpatcher.png)
@@ -47,9 +56,9 @@ By default, you may notice that in Vanilla WoW, Auto-loot is enabled by holding 
 
 *Full Credit to Subannix on the TurtleWoW Forum for this*
 
-# Addon List
+[Back to Top](https://github.com/jwizzlejosh/jwizzle-turtlewow-addons/edit/main/README.md#jwizzles-addons-list-for-turtlewow-1170)
 
-## Table of Contents
+# Addons List
 - AtlasLoot TW Edition
 - Auctionator
 - AutoDB2
@@ -74,6 +83,7 @@ By default, you may notice that in Vanilla WoW, Auto-loot is enabled by holding 
 - ShaguScore
 - ShaguDPS
 
+[Back to Top](https://github.com/jwizzlejosh/jwizzle-turtlewow-addons/edit/main/README.md#jwizzles-addons-list-for-turtlewow-1170)
 
 ### Atlasloot TW Edition
 Loot tables for Dungeons and Raids
