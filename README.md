@@ -37,7 +37,7 @@ By default, you may notice that in Vanilla WoW, Auto-loot is enabled by holding 
 
 ### How to Patch your Client
 
-[WoW Patcher](/Images/wowpatcher.png)
+![WoW Patcher](/Images/wowpatcher.png)
 
 1. Make sure the Patcher is in your WoW folder. (like the picture above)
 2. Make sure the game isn't running while using the Patcher. (the Patcher will throw an error and it won't work)
