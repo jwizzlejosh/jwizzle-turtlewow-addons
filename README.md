@@ -68,5 +68,5 @@ Loot tables for Dungeons and Raids
 
 [Download](https://github.com/Lexiebean/AtlasLoot)
 
-![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/ACP.jpg)
+![Screenshot](/Images/atlasloot.webp)
 
