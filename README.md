@@ -5,6 +5,31 @@ This is Jwizzle's comprehensive Addon repository for TurtleWoW Vanilla Plus. I c
 
 Here, you may also find the [sources](https://github.com/NoM0Re/Addons/blob/main/README.md#most-useful-wow-addons-for-patch-335a-wotlk) so you can download them directly if you prefer. Best of luck Turtles and happy questing.
 
+## Table of Contents
+- AtlasLoot TW Edition
+- Auctionator
+- AutoDB2
+- Dhask's FlightMap
+- LevelRange[Turtle]
+- Looking For Turtles - LFT
+- Magnify
+- Mail
+- Missing TradeSkills List
+- SortBags
+- TradeSkillsData[Vanilla]
+- TradeSkillsData[Turtle]
+- TurtleSnacks
+- unitscanTurtle
+- WIM
+- TurtleCount
+- PfQuest
+- PfQuest[TurtleWoW DB]
+- PfUI
+- PfUI[Elite Overlay]
+- ShaguNotify
+- ShaguScore
+- ShaguDPS
+
 ## Installing WoW Addons
 1. Download an Addon
 2. Unzip downloaded Addon (if required)
@@ -20,28 +45,28 @@ By default, you may notice that in Vanilla WoW, Auto-loot is enabled by holding 
   - (same functionality as the 4GB Patch from NTCore)
 
 - **disable Cache generation**
-  - Basically hinders the game from creating a WDB folder and it's cache files within.
-  - (simply changes the foldername to an "blank" name, and since windows can't create such folders the folder and the files within don't get generated at all)
+  - Basically hinders the game from creating a WDB folder and its cache files within.
+  - (simply changes the folder name to a "blank" name, and since Windows can't create such folders the folder and the files within don't get generated at all)
 
 - **increased Sound Channels**
   - Raises the limit of the maximum useable Sound Channels from 12 to 256.
-  - (ever wondered why some sound effects won't play when you're for e.g. in an crowded area, because all useable sound channels are occupied at that moment.)
+  - (ever wondered why some sound effects won't play when you're for e.g. in a crowded area, because all useable sound channels are occupied at that moment.)
 
 - **improved Field of View**
   - Increases the FoV value from the original ~1.57 to ~1.925 which is used in WotLK.
   - (same value as in the improved-fov.exe from Torta's Github)
 
 - **AutoLoot w/o shift**
-  - It basically revereses the functionality of it, so you loot automatically without holding [shift] (or your designated key) and loot normally while holding it.
+  - It basically reverses its functionality, so you loot automatically without holding [shift] (or your designated key) and loot normally while holding it.
 
 *Full Credit to Subannix on the TurtleWoW Forum for this*
      
 # Addon List
 
-## **Addon Control Panel**
-Stop logging out of the game just to change your addons! ACP adds the "Addons" button to the game's main menu to disable/enable Addons.<br/>
-<br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/ACP.zip)<br/>
-<br/>
-![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/ACP.jpg)<br/>
-[Curseforge](https://www.curseforge.com/wow/addons/acp/files/all?filter-game-version=2020709689%3A98)<br/>
+### Atlasloot TW Edition
+Loot tables for Dungeons and Raids
+
+[Download](https://github.com/Lexiebean/AtlasLoot)
+
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/ACP.jpg)
+
