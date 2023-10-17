@@ -8,8 +8,8 @@ Here, you may also find the [sources](https://github.com/NoM0Re/Addons/blob/main
 ## Table of Contents
 - [Installing TurtleWoW Addons](https://github.com/jwizzlejosh/jwizzle-turtlewow-addons/tree/main#installing-turtlewow-addons)
 - [Patching a Vanilla Client](https://github.com/jwizzlejosh/jwizzle-turtlewow-addons/tree/main#patching-a-vanilla-client)
-  - [How to Patch your Client](https://github.com/jwizzlejosh/jwizzle-turtlewow-addons/tree/main/README.md#how-to-patch-your-client)
-- [Addons List](https://github.com/jwizzlejosh/jwizzle-turtlewow-addons/tree/main/README.md#addons-list)
+  - [How to Patch your Client](https://github.com/jwizzlejosh/jwizzle-turtlewow-addons/tree/main#how-to-patch-your-client)
+- [Addons List](https://github.com/jwizzlejosh/jwizzle-turtlewow-addons/tree/main#addons-list)
 
 ## Installing TurtleWoW Addons
 1. Download an Addon
