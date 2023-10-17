@@ -5,30 +5,6 @@ This is Jwizzle's comprehensive Addon repository for TurtleWoW Vanilla Plus. I c
 
 Here, you may also find the [sources](https://github.com/NoM0Re/Addons/blob/main/README.md#most-useful-wow-addons-for-patch-335a-wotlk) so you can download them directly if you prefer. Best of luck Turtles and happy questing.
 
-## Table of Contents
-- AtlasLoot TW Edition
-- Auctionator
-- AutoDB2
-- Dhask's FlightMap
-- LevelRange[Turtle]
-- Looking For Turtles - LFT
-- Magnify
-- Mail
-- Missing TradeSkills List
-- SortBags
-- TradeSkillsData[Vanilla]
-- TradeSkillsData[Turtle]
-- TurtleSnacks
-- unitscanTurtle
-- WIM
-- TurtleCount
-- PfQuest
-- PfQuest[TurtleWoW DB]
-- PfUI
-- PfUI[Elite Overlay]
-- ShaguNotify
-- ShaguScore
-- ShaguDPS
 
 ## Installing WoW Addons
 1. Download an Addon
@@ -62,6 +38,32 @@ By default, you may notice that in Vanilla WoW, Auto-loot is enabled by holding 
 *Full Credit to Subannix on the TurtleWoW Forum for this*
      
 # Addon List
+
+## Table of Contents
+- AtlasLoot TW Edition
+- Auctionator
+- AutoDB2
+- Dhask's FlightMap
+- LevelRange[Turtle]
+- Looking For Turtles - LFT
+- Magnify
+- Mail
+- Missing TradeSkills List
+- SortBags
+- TradeSkillsData[Vanilla]
+- TradeSkillsData[Turtle]
+- TurtleSnacks
+- unitscanTurtle
+- WIM
+- TurtleCount
+- PfQuest
+- PfQuest[TurtleWoW DB]
+- PfUI
+- PfUI[Elite Overlay]
+- ShaguNotify
+- ShaguScore
+- ShaguDPS
+
 
 ### Atlasloot TW Edition
 Loot tables for Dungeons and Raids
